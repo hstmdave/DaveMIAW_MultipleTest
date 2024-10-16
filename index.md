@@ -12,7 +12,7 @@
 
 			  embeddedservice_bootstrap.init(
 				'00D7X000001PMnZ',
-				'ShiftWizard_Messaging_Sandbox',
+				'ShiftWizard_Messaging',
 				'https://healthstream--hstm.sandbox.my.site.com/ESWShiftWizardMessaging1722345831922',
 				{
 				scrt2URL: 'https://healthstream--hstm.sandbox.my.salesforce-scrt.com'
