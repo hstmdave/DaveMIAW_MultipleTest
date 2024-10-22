@@ -11,9 +11,9 @@
      			  });
 
 			  embeddedservice_bootstrap.init(
-				'00D7X000001PMnZ',
+				'00D020000004kT9',
 				'ShiftWizard_Messaging',
-				'https://healthstream--hstm.sandbox.my.site.com/ESWShiftWizardMessaging1722345831922',
+				'https://healthstream--davemiaw.sandbox.my.site.com/ESWShiftWizardMessaging1718983676553',
 				{
 				scrt2URL: 'https://healthstream--hstm.sandbox.my.salesforce-scrt.com'
 				}
@@ -23,6 +23,6 @@
 		    }
 	      };
         </script>
-        <script type='text/javascript' src='https://healthstream--hstm.sandbox.my.site.com/ESWShiftWizardMessaging1722345831922/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+        <script type='text/javascript' src='https://healthstream--davemiaw.sandbox.my.site.com/ESWShiftWizardMessaging1718983676553/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
     </body>
 </html>
