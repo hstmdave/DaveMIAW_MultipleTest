@@ -15,7 +15,7 @@
 				'ShiftWizard_Messaging',
 				'https://healthstream--davemiaw.sandbox.my.site.com/ESWShiftWizardMessaging1718983676553',
 				{
-				scrt2URL: 'https://healthstream--hstm.sandbox.my.salesforce-scrt.com'
+				scrt2URL: 'https://healthstream--davemiaw.sandbox.my.salesforce-scrt.com'
 				}
 			  );
 		    } catch (err) {
