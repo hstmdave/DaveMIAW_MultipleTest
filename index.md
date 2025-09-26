@@ -9,11 +9,11 @@
      			});
 
 			embeddedservice_bootstrap.init(
-				'00D020000004kT9',
-				'ShiftWizard_Messaging',
-				'https://healthstream--davemiaw.sandbox.my.site.com/ESWShiftWizardMessaging1728593219614',
+				'00DWL0000037Hwr',
+				'HLC_Messaging',
+				'https://healthstream--davemiaw.sandbox.my.site.com/ESWHLCMessaging1741632889089',
 				{
-				scrt2URL: 'https://healthstream--davemiaw.sandbox.my.salesforce-scrt.com'
+					scrt2URL: 'https://healthstream--davemiaw.sandbox.my.salesforce-scrt.com'
 				}
 			  );
 		} catch (err) {
@@ -21,6 +21,6 @@
 		    }
 	};
 </script>
-<script type='text/javascript' src='https://healthstream--davemiaw.sandbox.my.site.com/ESWShiftWizardMessaging1728593219614/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'>	
+<script type='text/javascript' src='https://healthstream--davemiaw.sandbox.my.site.com/ESWHLCMessaging1741632889089/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'>	
 </script>
 
