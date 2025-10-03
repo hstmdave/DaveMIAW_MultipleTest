@@ -10,17 +10,17 @@
 
 			embeddedservice_bootstrap.init(
 				'00DWL0000037Hwr',
-				'HLC_Messaging',
-				'https://healthstream--davemiaw.sandbox.my.site.com/ESWHLCMessaging1741632889089',
+				'Messaging_eCommerce',
+				'https://healthstream--davemiaw.sandbox.my.site.com/ESWMessagingeCommerce1759327232201',
 				{
 					scrt2URL: 'https://healthstream--davemiaw.sandbox.my.salesforce-scrt.com'
 				}
-			  );
+			);
 		} catch (err) {
-			  console.error('Error loading Embedded Messaging: ', err);
-		    }
+			console.error('Error loading Embedded Messaging: ', err);
+		}
 	};
 </script>
-<script type='text/javascript' src='https://healthstream--davemiaw.sandbox.my.site.com/ESWHLCMessaging1741632889089/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'>	
+<script type='text/javascript' src='https://healthstream--davemiaw.sandbox.my.site.com/ESWMessagingeCommerce1759327232201/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'>
 </script>
 
